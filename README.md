@@ -1,2 +1,2 @@
 # wordle-clone
-Wordle clone with my flavor
+Wordle clone with a twist
