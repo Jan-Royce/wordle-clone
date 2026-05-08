@@ -1,0 +1,33 @@
+{
+  "name": "wordle-clone",
+  "version": "1.0.0",
+  "description": "wordle clone with a twist (?)",
+  "keywords": [
+    "wordle",
+    "word",
+    "game",
+    "game"
+  ],
+  "homepage": "https://github.com/Jan-Royce/wordle-clone#readme",
+  "bugs": {
+    "url": "https://github.com/Jan-Royce/wordle-clone/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jan-Royce/wordle-clone.git"
+  },
+  "license": "ISC",
+  "author": "Jan Royce Maceren",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "phaser": "^4.1.0",
+    "random-words": "^2.0.1",
+    "vite": "^8.0.11"
+  }
+}
